@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 python:alpine3.19
 python:alpine3.20
+nginx:1.15.12
