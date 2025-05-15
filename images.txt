@@ -8,3 +8,4 @@ python:alpine3.19
 python:alpine3.20
 nginx:1.15.12
 nginx:1.21.6
+nginx:latest
